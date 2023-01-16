@@ -8,3 +8,7 @@ Week of 1/2/23:
   2) ML: Stanford MRNA Vaccine Analysis
 
 Week of 1/9/23:
+  1) EDA: NBA2k Stats
+  
+Week of 1/16/23:
+  1)
