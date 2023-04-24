@@ -1,14 +1,10 @@
 # ml-projects
-Repository Of Machine Learning And Data Analysis Project, Objective is at least one project every week and to demonstrate the progression in code writing and knowledge.
+Repository Of Machine Learning And Data Analysis Project, Objective is to demonstrate the progression in code writing and knowledge.
 
 Tracking the Projects and the objective of the projects:
 
-Week of 1/2/23: 
   1) ML: Heart Disease Death Prediction
   2) ML: Stanford MRNA Vaccine Analysis
-
-Week of 1/9/23:
-  1) EDA: NBA2k Stats
-  
-Week of 1/16/23:
-  1) ML: Pneumonia Chest XRay Image Classification
+  3) EDA: NBA2k Stats
+  4) ML: Pneumonia Chest XRay Image Classification
+  5) ML: Hotel Reservation Prediction
